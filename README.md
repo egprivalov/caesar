@@ -8,6 +8,8 @@ ____
 ____
 ![image](https://user-images.githubusercontent.com/44251572/133982164-3bf70d66-fe90-4a26-9960-239d1da3150d.png)
 ![image](https://user-images.githubusercontent.com/44251572/133982206-b8100be8-5e63-449b-81da-3a75a66ce9ec.png)
+  
+![image](https://user-images.githubusercontent.com/44251572/137699740-edc791e8-5113-4c9d-80bc-2bd4fc8cc58c.png)
 ____
 Программа написана на языке Python 3.8, с использованием среды разработки PyCharm
 ____
